@@ -1,0 +1,27 @@
+.cardFoundation {
+	/* background-color: #e5ab39; */
+	/* background-color: #eabc61; */
+	background-color: #e8b34d;
+}
+
+.cardBg {
+	background-color: #edc474;
+}
+
+.cardTitle {
+	max-height: 24px;
+}
+
+.cardBorder {
+	border: 4px solid #c37640;
+	box-sizing: border-box;
+}
+
+.roundedBorder {
+	border-radius: 5px;
+}
+
+.abilityBox {
+	height: 4.5em;
+	font-size: 70%;
+}
